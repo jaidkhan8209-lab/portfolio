@@ -281,8 +281,9 @@ textarea {
 
 
 @media (max-width: 600px) {
-  .input-group {
+  body {
     flex-direction: column;
+    font-size:14px;
   }
 }
 
